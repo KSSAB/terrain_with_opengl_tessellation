@@ -1,0 +1,16 @@
+sand.jpg:
+	titled Sand4_S.jpg
+	author Keith333
+	image source: https://opengameart.org/content/sand-texture-sand-seamless-texture-with-normalmap-sand4sjpg
+	CC BY 3.0 license : https://creativecommons.org/licenses/by/3.0/
+
+grass.png
+	titled grass17.png
+	author athile
+	image source: https://opengameart.org/content/seamless-grass-textures-20-pack
+	CC0 license : https://creativecommons.org/publicdomain/zero/1.0/
+
+rock.jpg
+	titled rocky-mountain-texture-seamless.jpg
+	image source: http://www.textures4photoshop.com/tex/stone-and-rock/rocky-mountain-texture-seamless.aspx
+	license : "All the items that you download directly from this website are free for personal and commercial use with attribution. That means that the projects that include items from this website need to contain a link to www.textures4photoshop.com"
